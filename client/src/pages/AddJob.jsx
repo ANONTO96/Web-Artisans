@@ -40,7 +40,7 @@ const AddJob = () => {
       // reset form
       e.target.reset()
       // showing toast 
-      toast.success('Data Added Succesfully')
+      toast.success('Data Added Successfully')
       // navigate to another page
       navigate('/my-posted-jobs')
       }
